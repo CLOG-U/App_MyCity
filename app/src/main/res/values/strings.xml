@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Manta</string>
+    <string name="home_title">Descubre Manta</string>
+    <string name="home_subtitle">Recomendaciones para conocer la ciudad, Manabí – Ecuador</string>
+    <string name="back_button">Regresar</string>
+    <string name="recommendations_count">%1$d recomendaciones</string>
+    <string name="location_label">Ubicación</string>
+    <string name="about_label">Acerca del lugar</string>
+    <string name="select_recommendation">Selecciona una recomendación para ver sus detalles</string>
+    <string name="categories_label">Categorías</string>
+
+    <!-- Categorías -->
+    <string name="category_beaches">Playas</string>
+    <string name="category_beaches_desc">Sol, arena y mar del Pacífico</string>
+    <string name="category_food">Gastronomía</string>
+    <string name="category_food_desc">Mariscos y sabores manabitas</string>
+    <string name="category_culture">Cultura e historia</string>
+    <string name="category_culture_desc">Museos, tradición y arqueología</string>
+    <string name="category_nature">Naturaleza</string>
+    <string name="category_nature_desc">Bosques, fauna y paisajes</string>
+    <string name="category_shopping">Compras</string>
+    <string name="category_shopping_desc">Centros comerciales y artesanías</string>
+
+    <!-- Playas -->
+    <string name="rec_murcielago">Playa El Murciélago</string>
+    <string name="rec_murcielago_summary">La playa urbana más conocida de Manta.</string>
+    <string name="rec_murcielago_details">Playa de arena amplia frente al malecón. Es ideal para caminar, bañarse y ver el atardecer. A su alrededor hay restaurantes, hoteles y espacios para practicar deportes de playa.</string>
+    <string name="rec_murcielago_location">Malecón Escénico, sector El Murciélago</string>
+
+    <string name="rec_santa_marianita">Playa Santa Marianita</string>
+    <string name="rec_santa_marianita_summary">Destino popular para el kitesurf.</string>
+    <string name="rec_santa_marianita_details">Playa tranquila al sur de Manta. Sus vientos constantes atraen a quienes practican kitesurf. También tiene zonas amplias para descansar y comer pescado fresco.</string>
+    <string name="rec_santa_marianita_location">Vía a San Lorenzo, al sur de Manta</string>
+
+    <string name="rec_san_lorenzo">Playa San Lorenzo</string>
+    <string name="rec_san_lorenzo_summary">Playa rodeada de acantilados y vegetación.</string>
+    <string name="rec_san_lorenzo_details">Playa de pescadores con un ambiente tranquilo y paisajes naturales. Es una buena opción para salir de la ciudad y visitar la costa cercana al refugio de Pacoche.</string>
+    <string name="rec_san_lorenzo_location">Parroquia San Lorenzo, Manta</string>
+
+    <string name="rec_tarqui">Playa de Tarqui</string>
+    <string name="rec_tarqui_summary">Corazón de la pesca artesanal.</string>
+    <string name="rec_tarqui_details">En las mañanas llegan las lanchas con la pesca del día. Es un buen lugar para conocer la actividad pesquera que identifica a Manta y comprar productos del mar.</string>
+    <string name="rec_tarqui_location">Parroquia Tarqui, Manta</string>
+
+    <!-- Gastronomía -->
+    <string name="rec_playita_mia">Playita Mía</string>
+    <string name="rec_playita_mia_summary">Mariscos frescos junto al mar.</string>
+    <string name="rec_playita_mia_details">Zona de comedores populares donde se preparan ceviches, encebollados y pescado frito con productos de la pesca local. Es una parada clásica para probar la comida manabita.</string>
+    <string name="rec_playita_mia_location">Sector Tarqui, frente a la playa</string>
+
+    <string name="rec_malecon">Malecón Escénico</string>
+    <string name="rec_malecon_summary">Comer con vista al Pacífico.</string>
+    <string name="rec_malecon_details">Paseo frente a la playa El Murciélago con locales de comida, heladerías y cafeterías. Es un buen lugar para cenar al aire libre y caminar por la noche.</string>
+    <string name="rec_malecon_location">Av. Malecón, sector El Murciélago</string>
+
+    <string name="rec_barbasquillo">Sector Barbasquillo</string>
+    <string name="rec_barbasquillo_summary">Restaurantes y cafeterías modernas.</string>
+    <string name="rec_barbasquillo_details">Barrio residencial con una oferta variada de restaurantes, cafeterías y bares. Hay opciones de comida internacional y de cocina local.</string>
+    <string name="rec_barbasquillo_location">Barbasquillo, Manta</string>
+
+    <!-- Cultura -->
+    <string name="rec_museo">Museo Centro Cultural Manta</string>
+    <string name="rec_museo_summary">Historia y arqueología de la región.</string>
+    <string name="rec_museo_details">Exhibe piezas arqueológicas de la cultura Manteña y muestras sobre la historia de la ciudad. Es una buena visita para entender el pasado de Manabí.</string>
+    <string name="rec_museo_location">Centro de Manta</string>
+
+    <string name="rec_astilleros">Astilleros artesanales</string>
+    <string name="rec_astilleros_summary">Barcos de madera hechos a mano.</string>
+    <string name="rec_astilleros_details">En la orilla de Tarqui se puede ver cómo los carpinteros de ribera construyen y reparan embarcaciones de madera, una tradición que pasa de generación en generación.</string>
+    <string name="rec_astilleros_location">Playa de Tarqui, Manta</string>
+
+    <string name="rec_jaboncillo">Complejo Hojas–Jaboncillo</string>
+    <string name="rec_jaboncillo_summary">Sitio arqueológico de la cultura Manteña.</string>
+    <string name="rec_jaboncillo_details">Complejo arqueológico con vestigios de la cultura Manteña, como las sillas de piedra en forma de U. Tiene senderos y un centro de interpretación.</string>
+    <string name="rec_jaboncillo_location">Cerros de Hojas y Jaboncillo, entre Manta y Portoviejo</string>
+
+    <!-- Naturaleza -->
+    <string name="rec_pacoche">Refugio de Vida Silvestre Pacoche</string>
+    <string name="rec_pacoche_summary">Bosque húmedo y seco junto al mar.</string>
+    <string name="rec_pacoche_details">Área protegida con senderos donde se pueden observar aves, monos aulladores y vegetación nativa. Conserva zonas marinas y costeras cercanas a Manta.</string>
+    <string name="rec_pacoche_location">Vía Manta – San Lorenzo</string>
+
+    <string name="rec_ballenas">Avistamiento de ballenas</string>
+    <string name="rec_ballenas_summary">Temporada de ballenas jorobadas.</string>
+    <string name="rec_ballenas_details">Entre junio y septiembre las ballenas jorobadas llegan a la costa de Manabí. Se recomienda contratar operadores turísticos autorizados.</string>
+    <string name="rec_ballenas_location">Costa de Manabí, salidas desde Manta</string>
+
+    <string name="rec_atardecer">Atardecer en el malecón</string>
+    <string name="rec_atardecer_summary">El mejor cierre del día.</string>
+    <string name="rec_atardecer_details">Al final de la tarde el sol se oculta sobre el Pacífico. Muchas personas caminan por el malecón o se sientan en la arena para ver la puesta de sol.</string>
+    <string name="rec_atardecer_location">Playa El Murciélago, Manta</string>
+
+    <!-- Compras -->
+    <string name="rec_mall_pacifico">Mall del Pacífico</string>
+    <string name="rec_mall_pacifico_summary">Centro comercial frente al mar.</string>
+    <string name="rec_mall_pacifico_details">Centro comercial con tiendas, patio de comidas, cine y supermercado. Su ubicación cerca del malecón permite combinar compras y paseo por la playa.</string>
+    <string name="rec_mall_pacifico_location">Av. Malecón, Manta</string>
+
+    <string name="rec_paseo_shopping">Paseo Shopping Manta</string>
+    <string name="rec_paseo_shopping_summary">Compras y entretenimiento.</string>
+    <string name="rec_paseo_shopping_details">Centro comercial con almacenes, locales de comida y servicios. Es una opción práctica para hacer compras de la semana.</string>
+    <string name="rec_paseo_shopping_location">Manta, Manabí</string>
+
+    <string name="rec_montecristi">Artesanías de Montecristi</string>
+    <string name="rec_montecristi_summary">Sombreros de paja toquilla.</string>
+    <string name="rec_montecristi_details">A pocos minutos de Manta, Montecristi es famoso por sus sombreros de paja toquilla tejidos a mano. Su tejido fue declarado Patrimonio Cultural Inmaterial por la UNESCO.</string>
+    <string name="rec_montecristi_location">Montecristi, a unos 15 km de Manta</string>
+</resources>

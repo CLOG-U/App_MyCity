@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sol sobre el mar: ícono de My City (Manta) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M54,30a14,14 0,1 1,0 28a14,14 0,1 1,0 -28z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,64c5,-4 10,-4 15,0s10,4 15,0s10,-4 15,0s7,3 7,3v6c0,0 -2,-3 -7,-3s-10,4 -15,0s-10,-4 -15,0s-10,4 -15,0s-7,3 -7,3v-6c0,0 2,-3 7,-3z" />
+    <path
+        android:fillColor="#B8EAFF"
+        android:pathData="M28,74c5,-4 10,-4 15,0s10,4 15,0s10,-4 15,0s7,3 7,3v6c0,0 -2,-3 -7,-3s-10,4 -15,0s-10,-4 -15,0s-10,4 -15,0s-7,3 -7,3v-6c0,0 2,-3 7,-3z" />
+</vector>
